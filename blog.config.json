@@ -1,0 +1,34 @@
+{
+  "siteName": "Министерство Недвижимости",
+  "siteUrl": "https://murzzsite.github.io/ministry-realty",
+  "lang": "ru",
+  "repo": "murzzsite/ministry-realty",
+  "ref": "BN67NR93JH",
+  "workerUrl": "https://lead-relay.leestygpt.workers.dev",
+  "blogTitle": "Блог",
+  "blogDescription": "Полезные статьи о продаже недвижимости в Москве и области: стоимость услуг риэлтора, документы, стратегии продажи, безопасность сделки",
+  "homeTitle": "Полезные статьи",
+  "author": {
+    "name": "Министерство Недвижимости",
+    "jobTitle": "",
+    "type": "Organization"
+  },
+  "ctaTitle": "Хотите обсудить продажу?",
+  "ctaText": "Оставьте заявку: бесплатно разберём вашу ситуацию, покажем реальную картину рынка и подскажем стратегию продажи.",
+  "ctaButton": "Получить консультацию",
+  "ctaUrl": "/#contact",
+  "disclaimer": "Материал носит информационный характер и не заменяет консультацию специалиста. Стоимость услуг и сроки продажи зависят от объекта и условий договора.",
+  "telegramNotify": true,
+  "cadenceDays": 7,
+  "homeLatest": 3,
+  "staticPages": [
+    "/"
+  ],
+  "indexNowKey": "5b312bb3b5d2fe1aa4912c274e3a65fd",
+  "previewSecret": "abfeb30837f903cb",
+  "theme": {
+    "ink": "var(--ink)",
+    "soft": "var(--navy-soft)",
+    "line": "var(--line)"
+  }
+}

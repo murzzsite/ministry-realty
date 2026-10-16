@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /ministry-realty/blog/preview/
+
+Sitemap: https://murzzsite.github.io/ministry-realty/sitemap.xml
